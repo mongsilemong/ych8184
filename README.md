@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chan Yun.
 - 👀 I’m interested in quantitative research, data science, data engineering, finance.
 - 🌱 I’m currently working as a data engineer in iscreamedu co.
-- 💞️ I’m looking for a company where I can work as a quantitative researcher who administer and analyze financial data.
+- 💞️ I’m looking for a company where I can work as a quantitative researcher
 - 📫 Reach me with my email, ych8184@gmail.com
 
 <!---
